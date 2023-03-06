@@ -23,7 +23,7 @@ function App() {
           <div className="image himanshu-img"></div>
             <div className="name">Himanshu</div>
             <div className="contact">
-              <a href="https://wa.me/7393888769?text=Hi" target="_blank" rel="noreferrer">
+              <a href="https://wa.me/9140566549?text=Hi" target="_blank" rel="noreferrer">
                 <Button icon={<WhatsAppOutlined />}>Whatsapp</Button>
               </a>
               <a href="https://www.instagram.com/soulwithbody_/" target="_blank" rel="noreferrer">
@@ -35,7 +35,7 @@ function App() {
           <div className="image siddhant-img"></div>
             <div className="name">Siddhant</div>
             <div className="contact">
-              <a href="https://wa.me/9140566549?text=Hi" target="_blank" rel="noreferrer">
+              <a href="https://wa.me/7393888769?text=Hi" target="_blank" rel="noreferrer">
                 <Button icon={<WhatsAppOutlined />}>Whatsapp</Button>
               </a>
               <a href="https://www.instagram.com/_sidd_____/" target="_blank" rel="noreferrer">
